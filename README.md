@@ -1,2 +1,2 @@
-# Electric Circuit Simulator (no name yet)
-Just easy-to-use program for simulating electric circuits.
+# Flastery
+Easy-to-use program for simulating electric circuits with modern interfaces and ability to create custom elements.
